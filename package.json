@@ -1,8 +1,8 @@
-{
-  "name": "porsadin",
-  "version": "1.0.0",
-  "private": true,
-  "homepage": "https://app-s1m.github.io/Porsadin_VIII_2026/"
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
 }
 
 {
