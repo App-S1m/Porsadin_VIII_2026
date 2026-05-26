@@ -1,4 +1,11 @@
 {
+  "name": "porsadin",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/App-S1m/Porsadin_VIII_2026.git"
+}
+
+{
   "name": "react",
   "version": "1.0.0",
   "description": "",
